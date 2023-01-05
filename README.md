@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/B6wdZEDP2TXRkA83o5/giphy.gif" width="10<div id="badges">
  <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/nem%C9%99t-pa%C5%9Fayev-9880091b0/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
