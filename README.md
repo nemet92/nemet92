@@ -25,4 +25,7 @@ Hi.I am Nemat
  <hr class="dashed">
  <div> :woman_technologist: About Me :<br>
 I am a Junior Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> from Azerbaijan.<div/>
+                                                                                                               
+
+:hammer_and_wrench: Languages and Tools :
 <hr class="dashed">
