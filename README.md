@@ -2,6 +2,7 @@
  <h1>
 Hi.I am Nemat
 </h1>
+<hr class="dashed">
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/B6wdZEDP2TXRkA83o5/giphy.gif" width="10<div id="badges">
  <div id="badges">
@@ -18,6 +19,7 @@ Hi.I am Nemat
   <div>
   <img src="https://media.giphy.com/media/5UA8yzZgQeq3C02eA2/giphy.gif" width="100px"/>
 </div>
+<hr class="dashed">
 
 <div align="center">
   <img src="https://media.giphy.com/media/TLaDluUpSbCKsSskMm/giphy.gif" width="600" height="300"/>
