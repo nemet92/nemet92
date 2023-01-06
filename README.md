@@ -1,7 +1,7 @@
 
- <h1>
+ <p>
 Hi.I am Nemat
-</h1>
+</p>
 <hr class="dashed">
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/B6wdZEDP2TXRkA83o5/giphy.gif" width="10<div id="badges">
