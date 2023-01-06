@@ -35,4 +35,5 @@ I am a Junior Flutter Developer <img src="https://media.giphy.com/media/WUlplcMp
 </div>
 <hr class="dashed">
 :fire: My Stats :
+                  https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nemet92&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
