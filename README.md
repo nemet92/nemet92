@@ -2,7 +2,6 @@
 <h1>
 Hi.I am Nemat
 </h1>
-<hr class="dashed">
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/B6wdZEDP2TXRkA83o5/giphy.gif" width="10<div id="badges">
  <div id="badges">
@@ -31,7 +30,7 @@ I am a Junior Flutter Developer <img src="https://media.giphy.com/media/WUlplcMp
 :hammer_and_wrench: Languages and Tools :<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://dart.dev/devicons/devicon/raw/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
+  <img src="https://dart.dev/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
   
 </div>
 <hr class="dashed">
