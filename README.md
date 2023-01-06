@@ -28,10 +28,9 @@ I am a Junior Flutter Developer <img src="https://media.giphy.com/media/WUlplcMp
 
 <div>
 :hammer_and_wrench: Languages and Tools :
-                                                                                                                <a href="https://www.flutter.dev"><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;</a>
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+<a href="https://www.flutter.dev"><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;</a>
+<a href="https://www.dart.dev">
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
-  
+                                                                                                                                        </a>
 </div>
 <hr class="dashed">
