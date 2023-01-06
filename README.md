@@ -26,7 +26,7 @@ Hi.I am Nemat
 I am a Junior Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> from Azerbaijan.<div/>
                                                                                                                
 
-<div>
+<div align="begin">
 :hammer_and_wrench: Languages and Tools :
 <a href="https://www.flutter.dev"><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;</a>
 <a href="https://www.dart.dev">
