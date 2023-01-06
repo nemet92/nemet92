@@ -22,7 +22,7 @@ Hi.I am Nemat
 <div align="center">
   <img src="https://media.giphy.com/media/TLaDluUpSbCKsSskMm/giphy.gif" width="600" height="300"/>
 </div>
----
- <div>  ### :woman_technologist: About Me :<br>
+ <hr class="dashed">
+ <div> :woman_technologist: About Me :<br>
 I am a Junior Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> from Azerbaijan.<div/>
 <hr class="dashed">
