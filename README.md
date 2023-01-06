@@ -7,7 +7,7 @@
   </a>
  
   <a href="https://www.facebook.com/nemet.pasayev92">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Facebook Badge"/>
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
                                                                                                                              <div id ="badges"> <img src="https://komarev.com/ghpvc/?username=your-github-nemet92&style=flat-square&color=blue" alt=""/> </div>
