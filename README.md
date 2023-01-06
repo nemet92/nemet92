@@ -19,3 +19,6 @@ Hi.I am Nemat
   <img src="https://media.giphy.com/media/5UA8yzZgQeq3C02eA2/giphy.gif" width="100px"/>
 </h1>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/TLaDluUpSbCKsSskMm/giphy.gif" width="600" height="300"/>
+</div>
