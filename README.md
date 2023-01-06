@@ -15,9 +15,9 @@ Hi.I am Nemat
 </div>
                                                                                                                             
   <div id ="badges"> <img src="https://komarev.com/ghpvc/?username=your-github-nemet92&style=flat-square&color=blue" alt=""   />                                                                                                                       
-  <h1>
+  <div>
   <img src="https://media.giphy.com/media/5UA8yzZgQeq3C02eA2/giphy.gif" width="100px"/>
-</h1>
+</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/TLaDluUpSbCKsSskMm/giphy.gif" width="600" height="300"/>
