@@ -43,4 +43,3 @@ I am a Junior Flutter Developer <img src="https://media.giphy.com/media/WUlplcMp
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nemet92)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nemet92)](https://github.com/anuraghazra/github-readme-stats)
