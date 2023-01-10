@@ -36,7 +36,7 @@ I am a Junior Flutter Developer <img src="https://media.giphy.com/media/WUlplcMp
 <hr class="dashed">
 
    :fire: My Stats :     <br>
-          <div  align="center">      
+          <div  align="left">      
                   
  <a> [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nemet92&theme=dark&hide_border=)](https://git.io/streak-stats)</a>
 
