@@ -37,7 +37,7 @@ I am a Junior Flutter Developer <img src="https://media.giphy.com/media/WUlplcMp
 
    :fire: My Stats :     <br>
              
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nemet92&theme=dark)](https://git.io/nemet92)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nemet92&theme=dark)]
                   
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nemet92&layout=compact&show_icons=true&theme=dark)
