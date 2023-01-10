@@ -36,8 +36,13 @@ I am a Junior Flutter Developer <img src="https://media.giphy.com/media/WUlplcMp
 <hr class="dashed">
 
    :fire: My Stats :     <br>           
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nemet92&theme=dark&hide_border=)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nemet92&theme=dark&hide_border=)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nemet92&anuraghazra&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
