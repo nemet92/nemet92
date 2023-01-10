@@ -36,10 +36,10 @@ I am a Junior Flutter Developer <img src="https://media.giphy.com/media/WUlplcMp
 <hr class="dashed">
 
    :fire: My Stats :     <br>
-          <div  align="left">      
+             
                   
- <a href=" [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nemet92&theme=dark&hide_border=)](https://git.io/streak-stats)">
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nemet92&theme=dark&hide_border=)](https://git.io/streak-stats)
 
- <a href=" [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nemet92&anuraghazra&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)"></div>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nemet92&anuraghazra&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
